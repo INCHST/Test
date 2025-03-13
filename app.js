@@ -1,5 +1,11 @@
-alert('hello world')
+let day = "Thursday"
 
-const name = 'tester'
+console.log(day)
 
-alert(name)
+var position = 4
+
+console.log(position)
+
+const output = "Today is Thursday. It is the 4th day of the week."
+
+console.log(output)
